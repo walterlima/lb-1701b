@@ -1,6 +1,5 @@
 {
   "_class": "document",
-  "do_objectID": "2ec21440-6d28-11e7-b38d-8784470a0bea",
   "assets": {
     "_class": "assetCollection",
     "colors": [],
@@ -11,6 +10,7 @@
     },
     "images": []
   },
+  "do_objectID": "2ec21440-6d28-11e7-b38d-8784470a0bea",
   "enableLayerInteraction": true,
   "enableSliceInteraction": true,
   "foreignSymbols": [],
