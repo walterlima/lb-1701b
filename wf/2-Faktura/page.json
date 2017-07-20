@@ -3,8 +3,10 @@
   "do_objectID": "CB04A1CB-CA17-42F8-AE79-0F1795584CD1",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -20,7 +22,8 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -394,
-    "guides": []
+    "guides": [
+    ]
   },
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
@@ -28,7 +31,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [],
+  "layers": [
+  ],
   "name": "2-Faktura",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -44,6 +48,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": -320,
-    "guides": []
+    "guides": [
+    ]
   }
 }

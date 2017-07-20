@@ -4,8 +4,10 @@
   "do_objectID": "032B2A7B-3CF9-481F-9248-067D93F293D8",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -26,8 +28,8 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "id": "9B426E3B-3C1F-4764-B27D-F0C55C41F961",
-      "class": "rectangle"
+      "class": "rectangle",
+      "id": "9B426E3B-3C1F-4764-B27D-F0C55C41F961"
     }
   ],
   "name": "Rectangle",

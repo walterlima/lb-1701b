@@ -59,8 +59,8 @@
                 "UID": 8
               },
               "NSRGB": {
-                "type": "Buffer",
-                "data": "0 0 0\u0000"
+                "data": "0 0 0\u0000",
+                "type": "Buffer"
               }
             },
             {
@@ -102,7 +102,8 @@
               "$class": {
                 "UID": 13
               },
-              "NS.objects": []
+              "NS.objects": [
+              ]
             },
             {
               "$classes": [
@@ -197,8 +198,10 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -311,8 +314,8 @@
                     "UID": 2
                   },
                   "NSRGB": {
-                    "type": "Buffer",
-                    "data": "0 0 0\u0000"
+                    "data": "0 0 0\u0000",
+                    "type": "Buffer"
                   }
                 },
                 {
@@ -370,7 +373,8 @@
                   "$class": {
                     "UID": 3
                   },
-                  "NS.objects": []
+                  "NS.objects": [
+                  ]
                 },
                 {
                   "$classes": [

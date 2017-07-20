@@ -3,8 +3,10 @@
   "do_objectID": "D45C9705-F79D-46EE-A3A8-EE6735C068A4",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -20,7 +22,8 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -394,
-    "guides": []
+    "guides": [
+    ]
   },
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
@@ -30,8 +33,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "id": "473CE49E-F4AA-4808-9800-D4C122B4DA44",
-      "class": "artboard"
+      "class": "artboard",
+      "id": "473CE49E-F4AA-4808-9800-D4C122B4DA44"
     }
   ],
   "name": "4-Spotreba",
@@ -49,6 +52,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": -320,
-    "guides": []
+    "guides": [
+    ]
   }
 }

@@ -3,8 +3,10 @@
   "do_objectID": "2ec102d0-6d28-11e7-b38d-8784470a0bea",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -20,7 +22,8 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -333,
-    "guides": []
+    "guides": [
+    ]
   },
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
@@ -28,7 +31,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [],
+  "layers": [
+  ],
   "name": "1-Dashboard",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -44,6 +48,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": -265,
-    "guides": []
+    "guides": [
+    ]
   }
 }

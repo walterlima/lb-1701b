@@ -3,8 +3,10 @@
   "do_objectID": "864D9FDD-C15C-40AC-956A-193A53D73815",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -24,12 +26,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "id": "F9614CE9-C862-41AA-9968-C7B5DE27977F",
-      "class": "shapeGroup"
+      "class": "shapeGroup",
+      "id": "F9614CE9-C862-41AA-9968-C7B5DE27977F"
     },
     {
-      "id": "20AB7DE1-062F-4078-9F03-AE5E9FC813EA",
-      "class": "text"
+      "class": "text",
+      "id": "20AB7DE1-062F-4078-9F03-AE5E9FC813EA"
     }
   ],
   "name": "Group",
