@@ -1,0 +1,109 @@
+{
+  "_class": "artboard",
+  "do_objectID": "473CE49E-F4AA-4808-9800-D4C122B4DA44",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 1024,
+    "x": -362,
+    "y": -363
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "D-3-1-0 Login",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "032B2A7B-3CF9-481F-9248-067D93F293D8",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "864D9FDD-C15C-40AC-956A-193A53D73815",
+      "class": "group"
+    },
+    {
+      "id": "0788034F-37E8-4B73-9FC6-49A56D7D1F5C",
+      "class": "text"
+    },
+    {
+      "id": "1DECEA39-4D3F-4AD4-9355-11B7FEE76F58",
+      "class": "text"
+    },
+    {
+      "id": "1E15125E-6E2B-4588-B102-6983C8B1EB66",
+      "class": "text"
+    },
+    {
+      "id": "725F81D1-3A28-4866-9734-195183DAEEC4",
+      "class": "text"
+    },
+    {
+      "id": "BCB9B76E-22BD-408B-A028-C6E670DEE455",
+      "class": "shapeGroup"
+    }
+  ],
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "isEnabled": false,
+    "gridSize": 20,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": []
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "layout": {
+    "_class": "layoutGrid",
+    "isEnabled": false,
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 32,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "resizesContent": false,
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": []
+  }
+}
