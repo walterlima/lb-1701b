@@ -5,10 +5,8 @@
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [
-    ],
-    "includedLayerIds": [
-    ],
+    "exportFormats": [],
+    "includedLayerIds": [],
     "layerOptions": 0,
     "shouldTrim": false
   },

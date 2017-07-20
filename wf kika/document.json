@@ -2,27 +2,21 @@
   "_class": "document",
   "assets": {
     "_class": "assetCollection",
-    "colors": [
-    ],
-    "gradients": [
-    ],
+    "colors": [],
+    "gradients": [],
     "imageCollection": {
       "_class": "imageCollection",
-      "images": {
-      }
+      "images": {}
     },
-    "images": [
-    ]
+    "images": []
   },
   "do_objectID": "e87a2d50-6d28-11e7-8a90-79a535dc1614",
   "enableLayerInteraction": true,
   "enableSliceInteraction": true,
-  "foreignSymbols": [
-  ],
+  "foreignSymbols": [],
   "layerSymbols": {
     "_class": "symbolContainer",
-    "objects": [
-    ]
+    "objects": []
   },
   "userInfo": {
     "com.invisionlabs.sync": {

@@ -3,10 +3,8 @@
   "do_objectID": "e8787fa0-6d28-11e7-8a90-79a535dc1614",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [
-    ],
-    "includedLayerIds": [
-    ],
+    "exportFormats": [],
+    "includedLayerIds": [],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -22,8 +20,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -333,
-    "guides": [
-    ]
+    "guides": []
   },
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
@@ -33,24 +30,24 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "602D17CD-517F-4EA4-88F2-1995D200DCA8"
+      "id": "602D17CD-517F-4EA4-88F2-1995D200DCA8",
+      "class": "shapeGroup"
     },
     {
-      "class": "shapeGroup",
-      "id": "A164CA94-BD9F-4B5F-8E2A-AE9E40D4419D"
+      "id": "A164CA94-BD9F-4B5F-8E2A-AE9E40D4419D",
+      "class": "shapeGroup"
     },
     {
-      "class": "shapeGroup",
-      "id": "E75C531A-5692-4D41-8C66-B1DF84321366"
+      "id": "E75C531A-5692-4D41-8C66-B1DF84321366",
+      "class": "shapeGroup"
     },
     {
-      "class": "shapeGroup",
-      "id": "8F6DDEA5-2E51-4CC5-B925-82481B72DF1F"
+      "id": "8F6DDEA5-2E51-4CC5-B925-82481B72DF1F",
+      "class": "shapeGroup"
     },
     {
-      "class": "shapeGroup",
-      "id": "4D80AE41-59DA-433F-8B10-33A90FD6652E"
+      "id": "4D80AE41-59DA-433F-8B10-33A90FD6652E",
+      "class": "shapeGroup"
     }
   ],
   "name": "Page 1",
@@ -68,7 +65,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": -265,
-    "guides": [
-    ]
+    "guides": []
   }
 }
